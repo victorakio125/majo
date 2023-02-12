@@ -1,0 +1,566 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 653px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 283px;
+  height: 283px;
+  background-image: url("images/majito.png");
+  background-position: 50% 50%;
+  margin: 57px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  letter-spacing: 0px;
+  font-weight: 700;
+  margin: 20px 20px 0;
+}
+
+.u-section-1 .u-text-2 {
+  text-transform: uppercase;
+  letter-spacing: 8px;
+  font-size: 1.25rem;
+  margin: 12px 20px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    width: auto;
+    margin-top: 57px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 704px;
+}
+
+.u-section-2 .u-list-1 {
+  margin-top: -80px;
+  margin-bottom: 60px;
+}
+
+.u-section-2 .u-repeater-1 {
+  grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+  min-height: 698px;
+  grid-gap: 10px 10px;
+}
+
+.u-section-2 .u-list-item-1 {
+  background-image: none;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-1 {
+  height: 350px;
+  object-position: 50% 26.1%;
+  width: 350px;
+  background-image: url("images/unnamed.jpg");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-1 {
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  letter-spacing: 8px;
+  width: 332px;
+  margin: 60px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 60px 0 0;
+}
+
+.u-section-2 .u-list-item-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-2 {
+  height: 350px;
+  object-position: 50% 15.64%;
+  width: 350px;
+  background-image: url("images/16881395474d24f218cd87be8f9b8a51.jpg");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-3 {
+  text-transform: uppercase;
+  width: 332px;
+  font-size: 1.25rem;
+  letter-spacing: 8px;
+  margin: 60px auto 0;
+}
+
+.u-section-2 .u-text-4 {
+  margin: 60px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 649px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: repeat(2, calc(50% - 5px));
+    min-height: 574px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1176px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1241px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 320px;
+    width: 320px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 320px;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 320px;
+    width: 320px;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: 320px;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 1100px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: -80px;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 477px;
+  order: 0;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 98px 9px 0 21px;
+}
+
+.u-section-3 .u-text-2 {
+  line-height: 2;
+  margin: 19px 30px 0;
+}
+
+.u-section-3 .u-image-1 {
+  width: 87px;
+  height: 87px;
+  background-image: url("images/png-transparent-medical-computing-computational-science-engineering-radiation-therapy-science-blue-logo-engineering-removebg-preview.png");
+  background-position: 50% 50%;
+  margin: 36px auto 0 21px;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 822px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-3 .u-text-3 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 55px -417px 0 197px;
+}
+
+.u-section-3 .u-text-4 {
+  line-height: 2;
+  margin: 80px 9px 0 27px;
+}
+
+.u-section-3 .u-image-2 {
+  width: 285px;
+  height: 285px;
+  background-image: url("images/png-transparent-pharmacist-pharmacy-health-care-patient-medical-prescription-others-stakeholder-scope-of-practice-poster-session-thumbnail-removebg-preview1.jpg");
+  background-position: 50% 50%;
+  margin: 93px auto 0 80px;
+}
+
+.u-section-3 .u-layout-cell-3 {
+  min-height: 1299px;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 21px 0;
+}
+
+.u-section-3 .u-image-3 {
+  width: 347px;
+  height: 347px;
+  background-image: url("images/las-Tic4-1024x819.png");
+  background-position: 50% 50%;
+  margin: 98px auto 0;
+}
+
+.u-section-3 .u-image-4 {
+  width: 314px;
+  height: 80px;
+  margin: 220px 132px 0 auto;
+}
+
+.u-section-3 .u-text-5 {
+  margin: 81px 171px 0 -171px;
+}
+
+.u-section-3 .u-text-6 {
+  line-height: 2;
+  margin: 80px 62px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 872px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 393px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 678px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-text-4 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 1071px;
+  }
+
+  .u-section-3 .u-image-4 {
+    height: 81px;
+  }
+
+  .u-section-3 .u-text-5 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-text-6 {
+    margin-right: 7px;
+    margin-left: 7px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-image-2 {
+    margin-left: 39px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-image-4 {
+    margin-right: 82px;
+  }
+
+  .u-section-3 .u-text-6 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 101px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-3 .u-text-3 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-3 .u-image-3 {
+    width: 340px;
+    height: 340px;
+  }
+
+  .u-section-3 .u-image-4 {
+    margin-right: 26px;
+  }
+} .u-section-4 {
+  background-image: none;
+  min-height: 749px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+.u-section-4 .u-layout-cell-1 {
+  min-height: 726px;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 49px 10px 0;
+}
+
+.u-section-4 .u-text-2 {
+  line-height: 2;
+  margin: 80px 617px 0 21px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 570px;
+  height: 222px;
+  margin: -191px 2px 0 auto;
+}
+
+.u-section-4 .u-image-2 {
+  width: 238px;
+  height: 238px;
+  background-image: url("images/1200px-SPSS_An_IBM_Company_logo.svg.png");
+  background-position: 50% 50%;
+  margin: 49px auto 0 122px;
+}
+
+.u-section-4 .u-text-3 {
+  line-height: 2;
+  margin: -279px 49px 0 588px;
+}
+
+.u-section-4 .u-line-1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  transform-origin: left center 0px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-4 {
+    min-height: 622px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 599px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 437px;
+    margin-left: 0;
+  }
+
+  .u-section-4 .u-text-3 {
+    margin-right: 0;
+    margin-left: 437px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-4 {
+    min-height: 123px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 217px;
+  }
+
+  .u-section-4 .u-text-3 {
+    margin-left: 217px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 37px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 540px;
+    height: 210px;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-text-3 {
+    margin-left: 37px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 340px;
+    height: 132px;
+  }
+
+  .u-section-4 .u-image-2 {
+    margin-left: 102px;
+  }
+
+  .u-section-4 .u-text-3 {
+    margin-left: 0;
+  }
+} .u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 80px;
+}
+
+.u-section-5 .u-text-1 {
+  margin: 30px auto;
+}
